@@ -3,5 +3,7 @@ This addon is based on Mozilla's Proxy-Blocker example, but it has been modified
 
 # Sources
 The ad list is provided by https://adaway.org/hosts.txt
+
 The example by Mozilla: https://github.com/mdn/webextensions-examples/tree/master/proxy-blocker
+
 Thanx!
